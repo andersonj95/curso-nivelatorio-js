@@ -1,5 +1,5 @@
 let btn = document.getElementById('main_btn');
 
-btn.addEventListener('clik', function(){
+btn.addEventListener('click', function(){
      alert('Hola Mundo');
 });
